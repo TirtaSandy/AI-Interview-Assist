@@ -1,0 +1,5 @@
+python-dotenv      
+Pillow             
+openai             
+keyboard           
+sv-ttk             
