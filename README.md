@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ### 3. Add your OpenAI API Key:
 
-Create a `.env` file in the root directory with the following contents:
+Modify the `.env` file in the root directory with the following contents:
 
 ```ini
 OPENAI_API_KEY="your-key-name-here"
@@ -60,14 +60,15 @@ OPENAI_API_KEY="your-key-name-here"
 
 ## ▶️ How to Run
 
-On Windows:
+On Windows, you can launch the app in either of these ways:
+
+- **Double-click** the `main.pyw` file  
+**or**
+- Run it from the terminal:
 
 ```bash
 python main.pyw
 ```
-or Double-Clicking main.pyw
-
-This will launch the AI Interview Assist GUI.
 
 ---
 
