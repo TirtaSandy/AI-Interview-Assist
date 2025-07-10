@@ -79,7 +79,3 @@ python main.pyw
   <br><br>
   <img src="https://github.com/user-attachments/assets/a784fad4-6f27-40a7-a144-9d93b753f700" alt="Screenshot 2" width="600"/>
 </div>
-
-## 📄 License
-
-MIT License © 2025
