@@ -2,6 +2,16 @@
 
 **AI-Interview-Assist** is a Windows-native GUI application that combines AI-powered screen analysis with advanced privacy tools. It is especially useful during job interviews, screen-sharing, presentations, or remote sessions where you need discretion and a smart assistant working behind the scenes.
 
+
+<p align="center">
+  <a href="https://github.com/Batlez/Batlez-Tweaks/releases/latest">
+    <img src="https://img.shields.io/github/downloads/Batlez/AI-Interview-Assist/total?style=for-the-badge" alt="GitHub all releases" />
+  </a> 
+  <a href="https://paypal.me/CS2bro123">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 What It Does
