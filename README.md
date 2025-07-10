@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Batlez/Batlez-Tweaks/releases/latest">
+  <a href="https://github.com/Batlez/AI-Interview-Assist/releases/latest">
     <img src="https://img.shields.io/github/downloads/Batlez/AI-Interview-Assist/total?style=for-the-badge" alt="GitHub all releases" />
   </a> 
   <a href="https://paypal.me/CS2bro123">
